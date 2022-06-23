@@ -1,0 +1,10 @@
+/* Place this part anywhere you want the avatar to appear */
+<div class="avatar"></div>
+
+
+/* This bit goes in your CSS */
+.avatar { border: 5px solid #111111; border-radius: 50%; width: 100px; height: 100px; overflow: hidden; position: relative; background-image: linear-gradient(#535353, #363636); }
+.avatar::before, .avatar::after { content: ''; position: absolute; border-radius: 50%; background: #797979; }
+.avatar::before { top: 10%; left: 20%; width: 45%; height: 45%; }
+.avatar::after { top: 50%; left: 25%; width: 100%; height: 100%; }
+
