@@ -1,8 +1,8 @@
 Thank you for downloading my Dark Triad Tabbed Guidebook! Getting this guidebook set up on your site is super simple. Just follow these steps:
-    1. Open dark-triad.css and dark-triad.html in the notepad program of your choice. Using Word, WordPad, LibreOffice, or a similar editor may cause the code to break.
-    2. Create a new webpage on your site if you don’t already have one set up.
-    3. Add the contents of dark-triad.css to the bottom of your site’s stylesheet.
-    4. Add the contents of dark-triad.html to the webpage you’ve created, and input your information.
+1. Open dark-triad.css and dark-triad.html in the notepad program of your choice. Using Word, WordPad, LibreOffice, or a similar editor may cause the code to break.
+2. Create a new webpage on your site if you don’t already have one set up.
+3. Add the contents of dark-triad.css to the bottom of your site’s stylesheet.
+4. Add the contents of dark-triad.html to the webpage you’ve created, and input your information.
 
 Customizing
 Customizing fonts and accent colours is done through variables, which can be found at the very top of the dark-triad.css file. If you’re unfamiliar with how CSS variables work, simply find the section below, and replace the bold part with the font or HEX/RGB code of your choice. It will automatically update throughout the CSS for you.
